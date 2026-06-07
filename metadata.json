@@ -1,0 +1,6 @@
+{
+  "name": "Slow Coffee",
+  "description": "시간이 천천히 흐르는 곳, 엄선된 원두의 깊은 풍미와 함께 진정한 휴식을 주는 Slow Coffee의 정적 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
